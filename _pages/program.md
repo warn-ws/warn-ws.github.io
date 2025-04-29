@@ -19,7 +19,7 @@ nav_order: 6
 </ul> -->
 
 <div class="card my-5" style="min-height: inherit; max-width: 50%; margin-left: auto !important; margin-right: auto !important;">
-    <img src="/assets/img/program.png" class="mx-auto d-block" >
+    <img src="/assets/img/program.png" class="mx-auto d-block" alt='program'>
 </div>
 The panel sessions are organized as <b>Oxford style</b> debates and panellists are invited to argue <b>FOR</b> or <b>AGAINST</b> the session topic. 
 <br>

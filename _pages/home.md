@@ -67,15 +67,22 @@ pagination:
   </div>
 
   <div class="col-sm-3">
-  {% if page.img %}
-    <img class="caption__media" data-interchange="
-    {% for img in page.img %}
-      [{{site.baseurl}}/asset/img/{{img[1]}} ({{img[0]}})]
-      {% unless forloop.last %}, {% endunless %}
-    {% endfor %}
-    ">
-  {% endif %}
-  <img class="card-img" src="{{ site.baseurl }}/assets/img/{{ page.img }}" alt="image">
+    {% if page.img %}
+      {% if page.img[0] and page.img[0].size == 2 %}
+        <img class="caption__media"
+            data-interchange="
+            {% for img in page.img %}
+              [{{ site.baseurl }}/assets/img/{{ img[1] }} ({{ img[0] }})]
+              {% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+            "
+            alt="responsive image">
+      {% else %}
+        <img class="card-img"
+            src="{{ site.baseurl }}/assets/img/{{ page.img }}"
+            alt="image">
+      {% endif %}
+    {% endif %}
   </div>
 
   <div class="col-sm-12">
@@ -159,7 +166,7 @@ pagination:
 
 <div class="card-group mt-3 mb-5">
   <div class="card m-1 p-1">
-    <a href="http://www.perseo.eu">
+    <a href="https://www.perseo.eu">
       <img src="{{ site.baseurl }}/assets/img/perseo.png" class="card-img-top" alt="Perseo">
     </a>
   </div>
@@ -173,14 +180,14 @@ pagination:
 <div class="col">
   <div class="row">
     <div class="card m-1 p-1" style="align-self: flex-start;">
-      <a href="http://www.unina.it">
+      <a href="https://www.unina.it">
         <img src="{{ site.baseurl }}/assets/img/unina.png" class="card-img-center" alt="Federico II">
       </a>
     </div>
   </div>
   <div class="row">
     <div class="card m-1 p-1" style="align-self: flex-start;">
-      <a href="http://www.unibz.it">
+      <a href="https://www.unibz.it">
         <img src="{{ site.baseurl }}/assets/img/unibz.png" class="card-img-center" alt="UniBZ">
       </a>
     </div>
