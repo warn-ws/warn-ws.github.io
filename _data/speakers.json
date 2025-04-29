@@ -33,11 +33,11 @@
         "contribution": "Panellist"
       },
       {
-        "name": "Maja Mataric",
-        "image": "/assets/img/mm.jpg",
-        "website": "https://maja-mataric.web.app/",
-        "title": "Chan Soon-Shiong Distinguished Professor of Computer Science",
-        "affiliation": "The University of Southern California",
+        "name": "Guillelm Alenyà",
+        "image": "/assets/img/ga.jpeg",
+        "website": "https://www.iri.upc.edu/people/galenya/",
+        "title": "Researcher and Director",
+        "affiliation": "Institut de Robotica i Informàtica Industrial (IRI)",
         "session": "Session2",
         "attendance": "In person <i class='fa-solid fa-user'></i>",
         "stance":"FOR",
