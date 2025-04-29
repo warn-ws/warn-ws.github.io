@@ -1,103 +1,102 @@
 {
-    "speakers": [
-      {
-        "name": "Lauriel Riek",
-        "image": "/assets/img/lr.jpg",
-        "website": "https://laurelriek.org/",
-        "title": "Professor of Computer Science and Engineering",
-        "affiliation": "UC San Diego",
-        "session": "Keynote",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "contribution": "Keynote"
-      },
-      {
-        "name": "Wing-Yue Geoffrey Louie",
-        "image": "/assets/img/jl.jpg",
-        "website": "https://www.geoffrey-louie.com/",
-        "title": "Associate Professor",
-        "affiliation": "Oakland University",
-        "session": "Session2",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"AGAINST",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Barbara Bruno",
-        "image": "/assets/img/bb.jpeg",
-        "website": "https://sarai.iar.kit.edu/21_58.php",
-        "title": "Head of Research Group",
-        "affiliation": "Karlsruhe Institute of Technology",
-        "session": "Session1",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"FOR",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Guillem Alenyà",
-        "image": "/assets/img/ga.jpeg",
-        "website": "https://www.iri.upc.edu/people/galenya/",
-        "title": "Researcher and Director",
-        "affiliation": "Institut de Robotica i Informàtica Industrial (IRI)",
-        "session": "Session2",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"FOR",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Ryan Calo",
-        "image": "/assets/img/rc.png",
-        "website": "https://www.law.uw.edu/directory/faculty/calo-ryan",
-        "title": "Lane Powell and D. Wayne Gittinger Professor",
-        "affiliation": "University of Washington",
-        "session": "Session2",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"AGAINST",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Vicky Charisi",
-        "image": "/assets/img/vc.png",
-        "website": "https://vickycharisi.wordpress.com/about/",
-        "title": "Research Scientist",
-        "affiliation": "Harvard University",
-        "session": "Session1",
-        "attendance": "Online <i class='fa-solid fa-globe'></i>",
-        "stance":"FOR",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Wafa Johal",
-        "image": "/assets/img/wj.jpeg",
-        "website": "https://wafa.johal.org/",
-        "title": "Senior Lecturer",
-        "affiliation": "University of Melbourne",
-        "session": "Session1",
-        "attendance": "Online <i class='fa-solid fa-globe'></i>",
-        "stance":"AGAINST",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Bahar Irfan",
-        "image": "/assets/img/bi.jpeg",
-        "website": "https://baharirfan.com/",
-        "title": "Postdoctoral Researcher",
-        "affiliation": "KTH Royal Institute of Technology",
-        "session": "Session2",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"FOR",
-        "contribution": "Panellist"
-      },
-      {
-        "name": "Elaine Short",
-        "image": "/assets/img/eshort.jpg",
-        "website": "https://eshort.github.io/",
-        "title": "Clare Boothe Luce Assistant Professor",
-        "affiliation": "Tufts University",
-        "session": "Session1",
-        "attendance": "In person <i class='fa-solid fa-user'></i>",
-        "stance":"AGAINST",
-        "contribution": "Panellist"
-      }
-    ]
-  }
-  
+  "speakers": [
+    {
+      "name": "Lauriel Riek",
+      "image": "/assets/img/lr.jpg",
+      "website": "https://laurelriek.org/",
+      "title": "Professor of Computer Science and Engineering",
+      "affiliation": "UC San Diego",
+      "session": "Keynote",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "contribution": "Keynote"
+    },
+    {
+      "name": "Wing-Yue Geoffrey Louie",
+      "image": "/assets/img/jl.jpg",
+      "website": "https://www.geoffrey-louie.com/",
+      "title": "Associate Professor",
+      "affiliation": "Oakland University",
+      "session": "Session2",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "AGAINST",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Barbara Bruno",
+      "image": "/assets/img/bb.jpeg",
+      "website": "https://sarai.iar.kit.edu/21_58.php",
+      "title": "Head of Research Group",
+      "affiliation": "Karlsruhe Institute of Technology",
+      "session": "Session1",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "FOR",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Guillem Alenyà",
+      "image": "/assets/img/ga.jpeg",
+      "website": "https://www.iri.upc.edu/people/galenya/",
+      "title": "Researcher and Director",
+      "affiliation": "Institut de Robotica i Informàtica Industrial (IRI)",
+      "session": "Session2",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "FOR",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Ryan Calo",
+      "image": "/assets/img/rc.png",
+      "website": "https://www.law.uw.edu/directory/faculty/calo-ryan",
+      "title": "Lane Powell and D. Wayne Gittinger Professor",
+      "affiliation": "University of Washington",
+      "session": "Session2",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "AGAINST",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Vicky Charisi",
+      "image": "/assets/img/vc.png",
+      "website": "https://vickycharisi.wordpress.com/about/",
+      "title": "Research Scientist",
+      "affiliation": "Harvard University",
+      "session": "Session1",
+      "attendance": "Online <i class='fa-solid fa-globe'></i>",
+      "stance": "FOR",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Wafa Johal",
+      "image": "/assets/img/wj.jpeg",
+      "website": "https://wafa.johal.org/",
+      "title": "Senior Lecturer",
+      "affiliation": "University of Melbourne",
+      "session": "Session1",
+      "attendance": "Online <i class='fa-solid fa-globe'></i>",
+      "stance": "AGAINST",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Bahar Irfan",
+      "image": "/assets/img/bi.jpeg",
+      "website": "https://baharirfan.com/",
+      "title": "Postdoctoral Researcher",
+      "affiliation": "KTH Royal Institute of Technology",
+      "session": "Session2",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "FOR",
+      "contribution": "Panellist"
+    },
+    {
+      "name": "Elaine Short",
+      "image": "/assets/img/eshort.jpg",
+      "website": "https://eshort.github.io/",
+      "title": "Clare Boothe Luce Assistant Professor",
+      "affiliation": "Tufts University",
+      "session": "Session1",
+      "attendance": "In person <i class='fa-solid fa-user'></i>",
+      "stance": "AGAINST",
+      "contribution": "Panellist"
+    }
+  ]
+}

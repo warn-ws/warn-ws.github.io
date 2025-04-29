@@ -32,7 +32,6 @@ pagination:
   </div>
 </div>
 
-
   <div class="tag-category-list">
     <ul class="p-0 m-0">      
         <li>

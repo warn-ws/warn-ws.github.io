@@ -6,6 +6,7 @@ description: (Tentative)
 nav: true
 nav_order: 6
 ---
+
 <hr>
 <!-- <h3>Workshop program</h3>
 <ul> 
@@ -59,8 +60,8 @@ Stances are highlighted in each panellist card.
             </div>
         {% endfor %}
     </div>
-</div>
 
+</div>
 
 <hr>
 <h3>Paper session (Accepted papers): </h3>
